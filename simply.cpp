@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int a=20;
+int a=20,b;
 if(1)
 {
 	cout<<a;
@@ -10,6 +10,7 @@ if(1)
 	cout<<a;
 }
 cout<<a;
-
+b=35;
+cout<<b;
 return 0;
 }
